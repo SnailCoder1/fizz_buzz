@@ -12,5 +12,11 @@ it "returns 'fizz' if number is divisible by 3" do
     end
   end
 
+
+  it "returns 'fizz' if number is divisible by 5" do
+    expect(fizz_buzz(5)).to eq 'fizz'
+    end
+  end
+
   
 
