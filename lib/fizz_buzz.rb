@@ -1,5 +1,4 @@
-require './lib/fizz_buzz'
-
-describe 'fizz_buzz' do
-
+def fizz_buzz(number)
+    number
 end
+
